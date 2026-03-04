@@ -1,4 +1,4 @@
-# Part 4: Library Management System — REST API with Flask
+# Library Management System — REST API with Flask
 
 ## Overview
 A full-featured **Library Management System** REST API built with Flask & SQLAlchemy.  
@@ -17,14 +17,7 @@ Supports complete **CRUD operations** for both **Authors** and **Books**, with s
 
 ---
 
-## How to Run
-
-```bash
-cd part-4
-python app.py
-```
-
-Visit: **http://localhost:5000**
+Visit: **http://localhost:5000** after running!
 
 > The database is **auto-created** on first run and seeded with sample authors & books.
 
