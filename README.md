@@ -17,7 +17,7 @@ Supports complete **CRUD operations** for both **Authors** and **Books**, with s
 
 ---
 
-Visit: **http://localhost:5000** after running!
+Visit: **http://localhost:5000** after running as it runs on localhost for now!
 
 > The database is **auto-created** on first run and seeded with sample authors & books.
 
